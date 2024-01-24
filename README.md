@@ -30,6 +30,7 @@
 
 **태양광 전지판** - 친환경 에너지 공급 가능
 
-![image](https://github.com/Hyedding/Robot/assets/155518059/0bab7555-e296-45c7-9ef5-a9aa3d618671)
+![image](https://github.com/Hyedding/Robot/assets/155518059/68323de0-f622-49e2-bd84-055b998a4860)
 
-![image](https://github.com/Hyedding/Robot/assets/155518059/dc788e92-beaf-4755-87b3-ed7dbedbcf2b)
+![image](https://github.com/Hyedding/Robot/assets/155518059/8f1e1e2e-7956-4193-a363-da8ae92c46bb)
+
